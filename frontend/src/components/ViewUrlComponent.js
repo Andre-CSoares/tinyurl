@@ -17,9 +17,9 @@ const ViewUrlComponent= () => {
       <table className="table">
         <thead className="table-dark">
           <tr>
-            <th>Original Url</th>
-            <th>Short Url</th>
-            <th>Click Count</th>
+            <th>Url Original</th>
+            <th>Url Curta</th>
+            <th>Clicks</th>
           </tr>
         </thead>
         <tbody>
